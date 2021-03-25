@@ -1,19 +1,3 @@
-<a href="https://www.buymeacoffee.com/loydkim" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 14px !important;width: 40px !important;" ></a>
-
-| iOS Device  | Android Device |
-| ------------- | ------------- |
-| <img src="https://github.com/loydkim/Dating_App_Main/blob/main/promo_ios.gif" width="300" height="600">  | <img src="https://github.com/loydkim/Dating_App_Main/blob/main/promo_android_small.gif" width="340" height="580">  |
-
-* Download launched app
-
-iOS: https://apps.apple.com/us/app/zoa/id1511213810
-
-android: https://play.google.com/store/apps/details?id=dating.you.and.me.loyd.app.example.flutter.com.meandyoudatingapp
-
-** Please click the Image to know how it works **
-
-[![Youtube](https://img.youtube.com/vi/L1Y1NMhDRsQ/0.jpg)](https://youtu.be/L1Y1NMhDRsQ)
-
 * Develop Environment.
 
 - Flutter SDK: 2.0.1
